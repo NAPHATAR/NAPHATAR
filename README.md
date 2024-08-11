@@ -1,16 +1,15 @@
-## Hi there 👋
+# 您好，我是陈聪明
 
-<!--
-**NAPHATAR/NAPHATAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 网络开发工程师 & 云计算爱好者
 
-Here are some ideas to get you started:
+在开发稳健的网络应用程序和实施云计算解决方案方面拥有丰富经验。热衷于创建高效、可扩展的软件架构。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 专业领域：
+- 全栈网络开发
+- 云基础设施和服务
+- 数据库设计和管理
+- API开发和集成
+
+目前专注于无服务器架构，并为网络开发生态系统的开源项目做出贡献。
+
+欢迎就创新的网络和云技术进行合作和讨论。
